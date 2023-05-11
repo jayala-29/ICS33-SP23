@@ -1,4 +1,4 @@
-# ICS33-SP23
+# ICS33-SU23
 
 ICS 33: Intermediate Programming with Python
 Summer 2023
